@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from app import app
 from flask import Flask
 from collections import Counter
 import logging 
